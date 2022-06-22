@@ -1,1 +1,56 @@
+Shortcuts simplify My Drive … 
+In the coming weeks, items in more than one folder will be replaced by shortcuts. Access to files and folders won't change.Learn more
+style.css
+Who has access
 
+System properties
+Type
+Style Sheet
+Size
+587 bytes
+Storage used
+587 bytes
+Location
+chayanin09 (1)
+Owner
+me
+Modified
+Jun 8, 2022 by me
+Opened
+11:18 AM by me
+Created
+Jun 8, 2022 with Google Drive Web (Unverified)
+Add a description
+Viewers can download
+Body {
+    background-image: url('https://wallpapercave.com/wp/wp9110951.jpg');
+    background-size: cover;
+    background-repeat:no-repeat;
+    font-family: 'Sriracha', cursive;
+       }
+
+    header
+    {
+      background-color:rgb(122, 122, 122);
+      color:white;
+      height:70px;
+      padding:10px;
+    }
+
+    footer {
+     background-color:grey;
+     color:rgb(240, 133, 33);
+     height:70px;
+     padding:10px;
+     text-align: center;
+}
+  
+ .mainpage 
+ {
+     width:1024px;
+     margin:0 auto;
+ }
+
+ .headname{
+     color: rgb(255, 138, 138);
+ }
