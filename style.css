@@ -15,7 +15,7 @@ Body {
 
     footer {
      background-color:grey;
-     color:rgb(240, 133, 33);
+     color:rgb(255, 132, 83);
      height:70px;
      padding:10px;
      text-align: center;
@@ -45,4 +45,9 @@ Body {
 .maps{
     border: 1px solid rosybrown;
     height: 300px;
+}
+
+.top10{
+    background-color: white;
+    padding: 10px;
 }
