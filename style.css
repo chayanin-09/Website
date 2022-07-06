@@ -1,5 +1,5 @@
 Body {
-    background-image: url('https://images.pexels.com/photos/1374295/pexels-photo-1374295.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-image: url('https://tips.thaiware.com/upload_misc/tips/2021_06/images/1610_21062812541123_104.jpg');
     background-size: cover;
     background-repeat:no-repeat;
     font-family: 'Sriracha', cursive;
@@ -40,4 +40,9 @@ Body {
  background-image: url("images/chantaburi-cover.jpeg");
  height: 320px;
  padding: auto;
+}
+
+.maps{
+    border: 1px solid rosybrown;
+    height: 300px;
 }
