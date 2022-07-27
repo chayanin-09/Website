@@ -57,7 +57,7 @@ Body {
     border-radius:10px ;
 }
 
-.topmenu{
+.topmenu ul{
     background-color: rgba(243, 178, 213, 0.993);
     height: 40px;
 }
