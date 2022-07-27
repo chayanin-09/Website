@@ -21,6 +21,11 @@ Body {
      text-align: center;
 }
   
+a{
+color: rgb(248, 132, 238);
+text-decoration: none;
+}
+
  .mainpage 
  {
      width:1024px;
