@@ -57,7 +57,19 @@ Body {
     border-radius:10px ;
 }
 
-.topmenu ul{
+.topmenu {
     background-color: rgba(243, 178, 213, 0.993);
     height: 40px;
 }
+
+.topmenu ul{
+    list-style: disc;
+    margin: auto;
+    display: flex;
+    justify-content: left;
+  }
+  
+  .topmenu li{
+    float: right;
+    padding: 10px 40px;
+  }
